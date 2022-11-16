@@ -1,6 +1,7 @@
-# docs
+# Social Brain in Action Lab
 
-Central documentation point for all projects in the lab.
+Github organization for the [Social Brain in Action Lab](https://www.soba-lab.com/).
+
 In this document, you will find links to all relevant code repositories used for different
 experiments.
 
