@@ -66,6 +66,10 @@ the robot to respond to the webapp commands.
 - [Virtual environment for NAO](https://github.com/NaoPepper4hri/nao_virtualenv):
   Install a python virtual environment in the NAO robot to allow manually installing python
   packages without need for root access.
+- [Pepper Base](https://github.com/NaoPepper4hri/PepperBase):
+  Template project for Android applications for the Pepper robot.
+  You can use this as an example for any new application you make, or add new functionalities to the
+  template.
 - [Heartbot](https://github.com/SocialBrainInActionLab/Heartbot):
   Synchronize user heartbeat to robot light pulse.
 - [NaoPupper](https://github.com/NaoPepper4hri/NaoPuppet):
